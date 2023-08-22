@@ -10,6 +10,13 @@ export default function App() {
     <h2>vite + react</h2>
     <p>coded by - rm551401</p>
 
+    <div>
+      <p>Turma - 1tdspl</p>
+      <p>Fiap</p>
+
+
+    </div>
+
     </>
 
   )
